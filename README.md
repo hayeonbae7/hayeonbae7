@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 📝 I regularly write articles on [https://hayeondiary.tistory.com/](https://hayeondiary.tistory.com/)
+- 📝 This is my development study site [https://hayeondiary.tistory.com/](https://hayeondiary.tistory.com/)
 
 - 📫 How to reach me **baehayeon17@gmail.com**
 
@@ -16,3 +17,4 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=discord_old_blurple&show_icons=true)
