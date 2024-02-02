@@ -6,10 +6,6 @@
 
 - 📫 How to reach me **baehayeon17@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline;">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
