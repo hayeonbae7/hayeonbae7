@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm bae hayeon</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 📝 I regularly write articles on [https://hayeondiary.tistory.com/](https://hayeondiary.tistory.com/)
-- 📝 This is my development study site [https://hayeondiary.tistory.com/](https://hayeondiary.tistory.com/)
+<a href="https://hayeondiary.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tstory&logoColor=white"/></a>
 
 - 📫 How to reach me **baehayeon17@gmail.com**
 
