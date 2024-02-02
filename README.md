@@ -3,7 +3,7 @@
 
 <a href="https://hayeondiary.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.notion.so/hayeon-28826a5510384d0899d12b71dc63d456"><img src="https://img.shields.io/badge/notion-222222?style=flat-square&logo=notion&logoColor=white"/></a>
-<a href="baehayeon17@gmail.com"><img src="https://img.shields.io/badge/baehayeon17@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=baehayeon17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/baehayeon17@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline;">
