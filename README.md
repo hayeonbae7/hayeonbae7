@@ -3,6 +3,7 @@
 
 <a href="https://hayeondiary.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="https://www.notion.so/hayeon-28826a5510384d0899d12b71dc63d456"><img src="https://img.shields.io/badge/notion-222222?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/hayeon-28826a5510384d0899d12b71dc63d456"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 - 📫 How to reach me **baehayeon17@gmail.com**
 
