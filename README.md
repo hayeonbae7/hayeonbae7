@@ -14,4 +14,4 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=discord_old_blurple&show_icons=true)
+![hayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeonbae7&theme=discord_old_blurple&show_icons=true)
